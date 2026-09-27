@@ -12,17 +12,17 @@ ensuring robust scraping across multiple sources.
 
 ---
 
-## 🚀 Features
-- 🔹 **Reddit Scraper**: Fetch posts and nested comments recursively.  
-- 🔹 **Twitter/X Scraper**: Uses Nitter + Playwright for reliability.  
-- 🔹 **Generic Website Scraper**: Extracts text with Axios + Cheerio.  
-- 🔹 **Fallback System**: If one method fails, another is tried.  
-- 🔹 **Environment Config**: Secure API key management with dotenv.  
-- 🔹 **TypeScript Strongly Typed**: Safer development with clear interfaces.  
+##  Features
+-  **Reddit Scraper**: Fetch posts and nested comments recursively.  
+-  **Twitter/X Scraper**: Uses Nitter + Playwright for reliability.  
+-  **Generic Website Scraper**: Extracts text with Axios + Cheerio.  
+-  **Fallback System**: If one method fails, another is tried.  
+-  **Environment Config**: Secure API key management with dotenv.  
+-  **TypeScript Strongly Typed**: Safer development with clear interfaces.  
 
 ---
 
-## 📂 Folder Structure
+##  Folder Structure
 ```
 .
 ├── dist/                # Compiled JavaScript output
@@ -43,7 +43,7 @@ ensuring robust scraping across multiple sources.
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 1. **Clone the repo**
    ```bash
@@ -66,7 +66,7 @@ ensuring robust scraping across multiple sources.
 
 ---
 
-## 🛠️ Usage
+##  Usage
 
 ### 1. Build the project
 ```bash
@@ -104,7 +104,7 @@ main();
 
 ---
 
-## 📜 Scripts
+##  Scripts
 
 ```json
 "scripts": {
@@ -120,7 +120,7 @@ main();
 
 ---
 
-## 🔒 Environment Variables
+##  Environment Variables
 
 | Variable      | Required | Description                          |
 |---------------|----------|--------------------------------------|
@@ -156,13 +156,13 @@ main();
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 Contributions are welcome!  
 1. Fork the repo  
 2. Create a feature branch  
-3. Submit a PR 🚀  
+3. Submit a PR   
 
 ---
 
-## 📄 License
+##  License
 This project is licensed under the [MIT License](./LICENSE.md).

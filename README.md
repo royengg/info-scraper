@@ -129,7 +129,7 @@ main();
 
 ---
 
-## 📊 Example Output
+##  Example Output
 
 ### Reddit scrape (`subreddit: "webdev", postsCount: 2`)
 ```json
